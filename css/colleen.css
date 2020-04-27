@@ -1,0 +1,5 @@
+.sec1, .sec2, .sec3{
+grid-template-columns: 1fr;
+}
+
+#what{order: -1;}
